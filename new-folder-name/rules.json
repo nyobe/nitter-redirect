@@ -10,7 +10,7 @@
       "type": "redirect",
       "redirect": {
         "transform": {
-          "host": "xcancel.com"
+          "host": "nitter.meowing.monster"
         }
       }
     }
